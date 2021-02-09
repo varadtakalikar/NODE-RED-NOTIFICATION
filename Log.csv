@@ -7,3 +7,6 @@ login
 payload.repository.owner.name
 
 
+commits,message
+"[{""id"":""12779ced4a1cad464ce3f99ab635625a5b521116"",""tree_id"":""22bedda90ca48c5758a1159fda23067a1b6d7157"",""distinct"":true,""message"":""text added"",""timestamp"":""2021-02-09T14:58:45+05:30"",""url"":""https://github.com/varadtakalikar/NODE-RED-NOTIFICATION/commit/12779ced4a1cad464ce3f99ab635625a5b521116"",""author"":{""name"":""varadtakalikar"",""email"":""varadtakalikar1202@gmail.com"",""username"":""varadtakalikar""},""committer"":{""name"":""varadtakalikar"",""email"":""varadtakalikar1202@gmail.com"",""username"":""varadtakalikar""},""added"":[""text.txt""],""removed"":[],""modified"":[""Log.csv""]}]",
+
